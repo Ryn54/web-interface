@@ -1,0 +1,346 @@
+.p-AssetHash.Background {
+display: flex;
+width: 100%;
+height: 100%;
+background-color: #001233ff;
+flex-wrap: nowrap;
+flex-direction: column;
+color: #ffffffff;
+font-family: Roboto;
+}
+.p-AssetHash.Flex291 {
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+align-items: center;
+}
+.p-AssetHash.Card {
+display: flex;
+width: 90%;
+justify-content: space-between;
+padding-right: 10px;
+padding-top: 10px;
+padding-left: 10px;
+padding-bottom: 10px;
+background-color: #002855ff;
+border-radius: 6px;
+margin-top: ;
+margin-bottom: 5px;
+border-color: #023E7Dff;
+border-style: solid;
+box-shadow: 0px 0px 8px 0px #0353A4ff ;
+}
+.p-AssetHash.InfoAsset {
+display: flex;
+width: 80%;
+justify-content: flex-start;
+flex-direction: column;
+border-radius: ;
+border-width: ;
+border-style: none;
+border-bottom-style: none;
+}
+.p-AssetHash.Precision {
+display: flex;
+justify-content: space-between;
+width: ;
+padding-top: 5px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 6px;
+border-bottom-width: 1px;
+border-bottom-color: #ADB5BDff;
+border-bottom-style: solid;
+}
+.p-AssetHash.Ticker {
+display: flex;
+justify-content: space-between;
+width: ;
+padding-top: 5px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+border-bottom-width: 1px;
+border-radius: 6px;
+border-bottom-color: #ADB5BDff;
+border-bottom-style: solid;
+}
+.p-AssetHash.Name {
+display: flex;
+justify-content: space-between;
+width: ;
+padding-top: 5px;
+padding-bottom: 10px;
+border-radius: 6px;
+border-bottom-width: 1px;
+border-bottom-color: #ADB5BDff;
+border-bottom-style: solid;
+padding-left: 10px;
+padding-right: 10px;
+}
+.p-AssetHash.AssetHash {
+display: flex;
+justify-content: space-between;
+width: ;
+border-bottom-width: 1px;
+border-radius: 6px;
+border-bottom-style: solid;
+border-bottom-color: #ADB5BDff;
+padding-bottom: 10px;
+padding-top: 5px;
+margin-top: 5px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.p-AssetHash.Flex292 {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.p-AssetHash.Header {
+display: flex;
+justify-content: space-between;
+padding-right: 10px;
+padding-top: 10px;
+padding-left: 10px;
+width: 90%;
+}
+.p-AssetHash.Flex284 {
+display: flex;
+flex-direction: column-reverse;
+padding-bottom: 20px;
+}
+.p-AssetHash.Flex296 {
+display: flex;
+color: #ffff;
+}
+.p-AssetHash.Flex297 {
+display: flex;
+justify-content: flex-end;
+padding-top: ;
+padding-bottom: 5px;
+}
+.p-AssetHash.Flex298 {
+display: flex;
+justify-content: flex-end;
+}
+.p-AssetHash.Flex300 {
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-color: #0466C8ff;
+outline-color: #1890ffff;
+border-radius: 2px;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ffff;
+}
+.p-AssetHash.Image51 {
+width: 15%;
+padding-left: 10px;
+padding-bottom: 5px;
+margin-left: 0px;
+align-self: center;
+}
+.p-AssetHash.TextBox200 {
+font-family: Roboto;
+font-weight: 500;
+}
+.p-AssetHash.TextBox201 {
+;
+}
+.p-AssetHash.TextBox202 {
+font-family: Roboto;
+font-weight: 500;
+}
+.p-AssetHash.TextBox203 {
+;
+}
+.p-AssetHash.TextBox204 {
+font-family: Roboto;
+font-weight: 500;
+}
+.p-AssetHash.TextBox205 {
+;
+}
+.p-AssetHash.TextBox206 {
+font-family: Roboto;
+font-weight: 500;
+}
+.p-AssetHash.TextBox208 {
+;
+}
+.p-AssetHash.LinkHome {
+color: #ffffffff;
+font-family: Roboto;
+font-size: 20px;
+}
+.p-AssetHash.Input14 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 4px;
+padding-left: 11px;
+padding-bottom: 4px;
+padding-right: 11px;
+color: #ffff;
+font-size: 1px;
+background-color: #33415Cff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #33415Cff;
+border-radius: 2px;
+height: 45px;
+width: 400px;
+box-shadow: 0px 0px 7px 0px #7D8597ff ;
+margin-right: 5px;
+word-wrap: normal;
+}
+.p-AssetHash.Button31 {
+color: #fff;
+background-color: #0466C8ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: right;
+border-width: 1px;
+border-style: solid;
+border-color: #0466C8ff;
+cursor: pointer;
+user-select: none;
+background-image: url("/app-assets/icons8-loupe%20(1).svg");
+background-repeat: no-repeat;
+box-shadow: 0px 0px 7px 0px #7D8597ff ;
+align-self: auto;
+height: 45px;
+}
+.p-AssetHash.Button32 {
+color: #fff;
+background-color: #0466C8ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ffff;
+cursor: pointer;
+user-select: none;
+margin-right: 5px;
+align-self: auto;
+}
+.p-AssetHash.Link7 {
+;
+}
+@media screen and (max-width: 991px) {
+	.p-AssetHash.Background.bpt {
+background-color: #001233ff;
+	}
+	.p-AssetHash.Flex291.bpt {
+justify-content: center;
+	}
+	.p-AssetHash.InfoAsset.bpt {
+width: 90%;
+	}
+	.p-AssetHash.Precision.bpt {
+padding-bottom: 5px;
+padding-top: 5px;
+	}
+	.p-AssetHash.Ticker.bpt {
+padding-bottom: 5px;
+padding-top: 5px;
+	}
+	.p-AssetHash.Name.bpt {
+padding-top: 5px;
+padding-bottom: 5px;
+border-bottom-width: 2px;
+border-radius: 5px;
+	}
+	.p-AssetHash.Flex292.bpt {
+height: ;
+justify-content: center;
+	}
+	.p-AssetHash.LinkHome.bpt {
+font-size: 20px;
+	}
+	.p-AssetHash.Card.bpt {
+justify-content: space-between;
+width: 90%;
+padding-left: 10px;
+padding-top: 10px;
+background-color: #002855ff;
+border-radius: 6px;
+border-width: 2px;
+border-color: #DEE2E6ff;
+padding-right: 10px;
+padding-bottom: 10px;
+margin-top: 5px;
+	}
+	.p-AssetHash.Header.bpt {
+height: ;
+width: 95%;
+	}
+	.p-AssetHash.Input14.bpt {
+width: 400px;
+height: 25px;
+	}
+	.p-AssetHash.AssetHash.bpt {
+border-radius: 6px;
+border-bottom-width: 1px;
+border-bottom-color: #6C757Dff;
+border-width: ;
+border-color: #DEE2E6;
+border-style: ;
+border-bottom-style: solid;
+padding-bottom: 5px;
+padding-top: 5px;
+	}
+	.p-AssetHash.Image51.bpt {
+width: 9%;
+height: ;
+align-self: flex-end;
+	}
+}
+@media screen and (max-width: 767px) {
+	.p-AssetHash.AssetHash.bpt {
+flex-direction: column;
+	}
+	.p-AssetHash.Image51.bpt {
+height: ;
+width: 8%;
+align-self: flex-start;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-AssetHash.Card.bpt {
+font-size: 12px;
+	}
+	.p-AssetHash.AssetHash.bpt {
+font-family: ;
+font-size: ;
+flex-direction: column;
+	}
+	.p-AssetHash.Header.bpt {
+justify-content: space-between;
+	}
+	.p-AssetHash.Image51.bpt {
+height: ;
+width: 7%;
+align-self: flex-end;
+	}
+	.p-AssetHash.Input14.bpt {
+width: 300px;
+	}
+}

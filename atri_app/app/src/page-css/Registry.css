@@ -1,0 +1,436 @@
+.p-Registry.Flex138 {
+display: flex;
+width: 100%;
+height: 100%;
+flex-direction: column;
+font-family: Roboto;
+color: #fbfbfb;
+background-color: #453a3a;
+}
+.p-Registry.Header {
+display: flex;
+justify-content: space-between;
+font-family: Roboto;
+font-size: 18px;
+}
+.p-Registry.LinkLiquidHome {
+display: flex;
+}
+.p-Registry.AllButton {
+display: flex;
+flex-wrap: wrap-reverse;
+flex-direction: column-reverse;
+}
+.p-Registry.button {
+display: flex;
+margin-top: 10px;
+}
+.p-Registry.Search {
+display: flex;
+justify-content: center;
+width: ;
+height: 70px;
+}
+.p-Registry.SearchAsset {
+display: flex;
+align-content: flex-end;
+align-items: center;
+}
+.p-Registry.FlexFilter {
+display: flex;
+justify-content: space-around;
+height: 90px;
+align-items: center;
+background-color: #e5e5e5;
+}
+.p-Registry.FlexNameFilte {
+display: flex;
+align-items: flex-end;
+}
+.p-Registry.FlexTickerFilter {
+display: flex;
+align-items: flex-end;
+}
+.p-Registry.FlexSupplyFilter {
+display: flex;
+align-items: flex-end;
+}
+.p-Registry.FlexIssuerDomainFilter {
+display: flex;
+align-items: flex-end;
+}
+.p-Registry.FlexResponseOnFilter {
+display: flex;
+flex-direction: row;
+align-items: stretch;
+justify-content: space-around;
+height: 650px;
+}
+.p-Registry.NameResponse {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+font-family: Roboto;
+align-self: auto;
+align-content: stretch;
+flex-wrap: wrap;
+}
+.p-Registry.TickerResponse {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+font-family: Roboto;
+flex-wrap: wrap;
+margin-right: ;
+box-sizing: content-box;
+overflow: visible;
+}
+.p-Registry.SupplyResponse {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+font-family: Roboto;
+}
+.p-Registry.IssuerDomainResponse {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+font-family: Roboto;
+}
+.p-Registry.LinkHome {
+margin-left: 10px;
+margin-top: 10px;
+}
+.p-Registry.Button20 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+margin-right: 10px;
+}
+.p-Registry.Button21 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+margin-right: 10px;
+width: ;
+}
+.p-Registry.searchAsset {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 4px;
+padding-left: 11px;
+padding-bottom: 4px;
+padding-right: 11px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 2px;
+border-style: solid;
+border-color: #000000;
+border-radius: 15px;
+height: 25px;
+width: 400px;
+position: static;
+background-clip: text;
+-webkit-background-clip: text;
+text-align: center;
+}
+.p-Registry.nameFilter {
+font-size: 20px;
+font-family: Roboto;
+}
+.p-Registry.TickerFilter {
+font-family: Roboto;
+font-weight: ;
+font-size: 20px;
+}
+.p-Registry.SupplyFilter {
+font-family: Roboto;
+font-size: 20px;
+}
+.p-Registry.IssuerDomainFilter {
+font-family: Roboto;
+font-size: 20px;
+}
+.p-Registry.Name1 {
+word-wrap: normal;
+font-family: ;
+font-size: ;
+}
+.p-Registry.Name19 {
+;
+}
+.p-Registry.Name20 {
+;
+}
+.p-Registry.Name2 {
+font-family: ;
+font-size: ;
+}
+.p-Registry.Name3 {
+;
+}
+.p-Registry.Name18 {
+;
+}
+.p-Registry.Name9 {
+;
+}
+.p-Registry.Name17 {
+;
+}
+.p-Registry.Name6 {
+;
+}
+.p-Registry.Name12 {
+;
+}
+.p-Registry.Name7 {
+;
+}
+.p-Registry.Name5 {
+;
+}
+.p-Registry.Name4 {
+;
+}
+.p-Registry.Name8 {
+;
+}
+.p-Registry.Name11 {
+;
+}
+.p-Registry.Name10 {
+;
+}
+.p-Registry.Name16 {
+;
+}
+.p-Registry.Name13 {
+;
+}
+.p-Registry.Name14 {
+;
+}
+.p-Registry.Name15 {
+;
+}
+.p-Registry.Ticker1 {
+;
+}
+.p-Registry.Ticker2 {
+;
+}
+.p-Registry.Ticker20 {
+;
+}
+.p-Registry.Ticker3 {
+;
+}
+.p-Registry.Ticker4 {
+;
+}
+.p-Registry.Ticker5 {
+;
+}
+.p-Registry.Ticker19 {
+;
+}
+.p-Registry.Ticker6 {
+;
+}
+.p-Registry.Ticker7 {
+;
+}
+.p-Registry.Ticker8 {
+;
+}
+.p-Registry.Ticker10 {
+;
+}
+.p-Registry.Ticker9 {
+;
+}
+.p-Registry.Ticker12 {
+;
+}
+.p-Registry.Ticker18 {
+;
+}
+.p-Registry.Ticker11 {
+;
+}
+.p-Registry.Ticker17 {
+;
+}
+.p-Registry.Ticker13 {
+;
+}
+.p-Registry.Ticker16 {
+;
+}
+.p-Registry.Ticker15 {
+;
+}
+.p-Registry.Ticker14 {
+;
+}
+.p-Registry.Supply1 {
+;
+}
+.p-Registry.Supply19 {
+;
+}
+.p-Registry.Supply20 {
+;
+}
+.p-Registry.Supply2 {
+;
+}
+.p-Registry.Supply3 {
+;
+}
+.p-Registry.Supply4 {
+;
+}
+.p-Registry.Supply5 {
+;
+}
+.p-Registry.Supply6 {
+;
+}
+.p-Registry.Supply7 {
+;
+}
+.p-Registry.Supply18 {
+;
+}
+.p-Registry.Supply17 {
+;
+}
+.p-Registry.Supply8 {
+;
+}
+.p-Registry.Supply9 {
+;
+}
+.p-Registry.Supply16 {
+;
+}
+.p-Registry.Supply10 {
+;
+}
+.p-Registry.Supply11 {
+;
+}
+.p-Registry.Supply12 {
+;
+}
+.p-Registry.Supply14 {
+;
+}
+.p-Registry.Supply15 {
+;
+}
+.p-Registry.Supply13 {
+;
+}
+.p-Registry.IssuerDomain1 {
+;
+}
+.p-Registry.IssuerDomain19 {
+;
+}
+.p-Registry.IssuerDomain2 {
+;
+}
+.p-Registry.IssuerDomain18 {
+;
+}
+.p-Registry.IssuerDomain17 {
+;
+}
+.p-Registry.IssuerDomain3 {
+;
+}
+.p-Registry.IssuerDomain4 {
+;
+}
+.p-Registry.IssuerDomain5 {
+;
+}
+.p-Registry.IssuerDomain6 {
+;
+}
+.p-Registry.IssuerDomain16 {
+;
+}
+.p-Registry.IssuerDomain15 {
+;
+}
+.p-Registry.IssuerDomain7 {
+;
+}
+.p-Registry.IssuerDomain13 {
+;
+}
+.p-Registry.IssuerDomain8 {
+;
+}
+.p-Registry.IssuerDomain9 {
+;
+}
+.p-Registry.IssuerDomain12 {
+;
+}
+.p-Registry.IssuerDomain14 {
+;
+}
+.p-Registry.IssuerDomain11 {
+;
+}
+.p-Registry.IssuerDomain10 {
+color: #ffffff;
+}
+.p-Registry.IssuerDomain20 {
+;
+}
+@media screen and (max-width: 478px) {
+	.p-Registry.Header.bpt {
+font-family: Roboto;
+font-size: 17px;
+text-align: left;
+	}
+}

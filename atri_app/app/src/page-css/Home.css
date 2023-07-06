@@ -1,0 +1,157 @@
+.p-Home.Background {
+display: flex;
+width: 100%;
+height: 100%;
+flex-direction: column;
+background-image: ;
+background-color: #001233ff;
+background-repeat: round;
+background-attachment: local;
+color: #ffffff;
+border-color: #c9184a;
+align-content: stretch;
+align-items: stretch;
+justify-content: flex-start;
+box-sizing: content-box;
+overflow: visible;
+background-origin: content-box;
+background-clip: border-box;
+-webkit-background-clip: border-box;
+position: static;
+align-self: auto;
+background-position-y: ;
+background-position-x: ;
+font-family: Roboto;
+}
+.p-Home.Flex134 {
+display: flex;
+width: 100%;
+height: 50%;
+justify-content: center;
+}
+.p-Home.Flex135 {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+flex-wrap: wrap;
+}
+.p-Home.Flex276 {
+display: flex;
+justify-content: flex-start;
+}
+.p-Home.Flex307 {
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+}
+.p-Home.Flex303 {
+display: flex;
+justify-content: space-between;
+width: 95%;
+margin-top: 20px;
+}
+.p-Home.Flex304 {
+display: flex;
+justify-content: flex-start;
+}
+.p-Home.Flex309 {
+display: flex;
+justify-content: space-between;
+}
+.p-Home.Flex310 {
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-color: #0466C8ff;
+outline-color: #1890ffff;
+border-radius: 2px;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ffff;
+}
+.p-Home.Title {
+font-family: Roboto;
+font-size: 20px;
+margin-bottom: 5px;
+}
+.p-Home.Button22 {
+color: #fff;
+background-color: #0466C8ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 3px;
+outline: none;
+font-weight: ;
+text-align: center;
+border-width: ;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+width: 24px;
+height: 100%;
+font-family: Roboto;
+word-wrap: normal;
+background-image: url("/app-assets/icons8-loupe%20(1).svg");
+background-attachment: scroll;
+background-repeat: no-repeat;
+border-right-color: #0353A4ff;
+border-right-style: none;
+border-bottom-color: #0353A4ff;
+box-shadow: 0px 0px 7px 0px #1890ffff ;
+border-bottom-style: none;
+}
+.p-Home.Input16 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 4px;
+padding-left: 11px;
+padding-bottom: 4px;
+padding-right: 11px;
+color: #ffff;
+font-size: 14px;
+background-color: #33415Cff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #33415Cff;
+border-radius: 2px;
+font-family: Roboto;
+width: 400px;
+box-shadow: 0px 0px 7px 0px #7D8597ff ;
+margin-right: 5px;
+height: 45px;
+}
+.p-Home.Link10 {
+outline-offset: 20px;
+}
+.p-Home.Button34 {
+color: #fff;
+background-color: #0466C8ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ffff;
+cursor: pointer;
+user-select: none;
+margin-right: 5px;
+align-self: auto;
+width: ;
+}
+.p-Home.Link11 {
+;
+}

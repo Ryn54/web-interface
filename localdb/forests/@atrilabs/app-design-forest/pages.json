@@ -1,0 +1,26 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/Home"
+  },
+  "423ab435-dded-4587-8daa-3e27d293f64c": {
+    "name": "AssetHash",
+    "route": "/AssetHash"
+  },
+  "bf9873a6-2208-4b01-972f-62364e4dd773": {
+    "name": "Registry",
+    "route": "/Registry"
+  },
+  "2880ca40-f241-4bf0-92aa-93922e8e9ea6": {
+    "name": "test",
+    "route": "/test"
+  },
+  "83a5fdae-30ce-41f1-81c7-fd6e1018939f": {
+    "name": "test",
+    "route": "/test"
+  },
+  "2db63d90-4420-46ab-82cc-473479aa1075": {
+    "name": "table",
+    "route": "/table"
+  }
+}
